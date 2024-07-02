@@ -1,1 +1,1 @@
-Este repositorio contiene mi solución al desafío del Titanic en ciencia de datos. El objetivo del proyecto es predecir la supervivencia de los pasajeros a bordo del famoso barco Titanic utilizando técnicas de aprendizaje automático.
+Este repositorio contiene una solución al desafío del Titanic en ciencia de datos. El objetivo del proyecto es predecir la supervivencia de los pasajeros a bordo del famoso barco Titanic utilizando técnicas de aprendizaje automático.
